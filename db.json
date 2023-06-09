@@ -1,0 +1,14 @@
+{
+  "cars": [
+    {
+      "name": "Subaru",
+      "cost": 55000,
+      "id": 1
+    },
+    {
+      "name": "Subaru",
+      "cost": 55000,
+      "id": 2
+    }
+  ]
+}
